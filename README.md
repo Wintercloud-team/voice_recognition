@@ -15,6 +15,9 @@
     ```bash
     pip install -r requirements.txt
     ```
+3. Скачайте модель распознавания голоса с официального сайта vosk:
+    https://alphacephei.com/vosk/models
+   И распакуйте её в корень папки проекта
 
 ## Использование
 
